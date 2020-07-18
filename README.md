@@ -1,4 +1,4 @@
-# Certifiactes
+# Certificates
 A repo to keep all my various certs
 
 ### freeCodeCamp verification links
