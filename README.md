@@ -33,10 +33,13 @@
 
    > #### [Lynda / LinkedIn Learning Certifications](https://github.com/SWCousins/Certificates/tree/master/Lynda)
 
-### TryHackMe Profile:
+### TryHackMe:
 
+   > #### [TryHackMe Certificates](https://github.com/SWCousins/Certificates/tree/master/TryHackMe)
+   
+   #### Profile:
    > * Level: 8 (Hacker)
-   > * Rooms Complete: 39
+   > * Rooms Complete: 48
    > * Badges: 10
    > * Rank: Top 3%
 
