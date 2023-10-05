@@ -7,6 +7,8 @@
    >> https://www.freecodecamp.org/certification/swcousins/responsive-web-design
    > #### Javascript Algorithms and Data Structures: 
    >> https://www.freecodecamp.org/certification/swcousins/javascript-algorithms-and-data-structures
+   > #### Foundational C# with Microsoft:
+   >> https://www.freecodecamp.org/certification/swcousins/foundational-c-sharp-with-microsoft
    
    
 ### Cybrary Cybersecurity Certificates:
@@ -38,9 +40,9 @@
    > #### [TryHackMe Certificates](https://github.com/SWCousins/Certificates/tree/master/TryHackMe)
    
    #### Profile:
-   > * Level: 8 (Hacker)
-   > * Rooms Complete: 48
-   > * Badges: 10
-   > * Rank: Top 3%
+   > * Level: 9
+   > * Rooms Complete: 68
+   > * Badges: 12
+   > * Rank: Top 5%
 
    #### https://tryhackme.com/p/GoldAcorn
